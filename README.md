@@ -2,7 +2,7 @@
 
 > A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
 
-_This template uses Docsify v5 (release candidate), which highlights a modernized UI with improved accessibility and theming, simplified CSS customization and theme add-ons (incl. dark theme support). Other new features include a Google Analytics plugin, enhanced error handling, substantial code cleanup and numerous bug fixes._
+_This template uses a [Docsify v5 preview](https://docsify-preview-docsifyjs.vercel.app/preview/#/) (release candidate), which highlights a modernized UI with improved accessibility and theming, simplified CSS customization and theme add-ons (incl. dark theme support). Other new features include a Google Analytics plugin, enhanced error handling, substantial code cleanup and numerous bug fixes._
 
 ## Site Setup
 
