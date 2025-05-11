@@ -30,4 +30,4 @@ Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users)
 
 ## Docsify Documentation
 
-To learn more about using Docsify v5 preview, visit https://github.com/docsifyjs/docsify/.
+To learn more about using Docsify v5 preview, visit https://docsify-preview-docsifyjs.vercel.app/preview/#/.
